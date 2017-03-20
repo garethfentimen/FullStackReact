@@ -1,0 +1,34 @@
+{
+  "questions" : [
+    {
+      "description": "Little interest or pleasure in doing things?"
+    },
+    {
+      "description": "Feeling down, depressed, or hopeless?"
+    },
+    {
+      "description": "Trouble falling or staying asleep, or sleeping too much?"
+    },
+    {
+      "description": "Feeling tired or having little energy?"
+    },
+    {
+      "description": "Poor appetite or overeating?"
+    },
+    {
+      "description": "Feeling bad about yourself - or that you are a failure or have let yourself or your family down?"
+    },
+    {
+      "description": "Trouble concentrating on things, such as reading the newspaper or watching television?"
+    },
+    {
+      "description": "Moving or speaking so slowly that other people could have noticed?"
+    },
+    {
+      "description": "Or the opposite - being so fidgety or restless that you have been moving around a lot more than usual?"
+    },
+    {
+      "description": "Thoughts that you would be better off dead, or of hurting yourself in some way?"
+    }
+  ]
+}
